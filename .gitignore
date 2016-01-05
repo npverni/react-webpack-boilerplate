@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+node_modules
+dist/bundle.js
+build/bundle.js
+lib
+coverage
+_book
